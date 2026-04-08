@@ -1,26 +1,15 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NazrulNazir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nazrul.noor.official)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nazrul.noor.official/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nazrulnazir/)
+<h1 align="center">Hi 👋, I'm Nazrul Nazir</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <img width="1530" height="444" alt="GitHub profile banner of Nazrul Nazir" src="https://github.com/user-attachments/assets/fe75c18c-a4a3-4f93-bec0-e34586046e63" />
 
+<p align="left">Hi, I'm a passionate Frontend Developer who loves creating clean, responsive, and user-friendly web applications. I have hands-on experience working with HTML, CSS, Tailwind CSS, JavaScript, and React to build modern web interfaces.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NazrulNazir)](https://github.com/ryo-ma/github-profile-trophy)
+I enjoy transforming UI/UX designs into functional websites and continuously learning new technologies to improve performance and user experience. My goal is to build scalable and high-quality web applications that solve real-world problems.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazrulNazir)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NazrulNazir&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/NazrulNazir/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/NazrulNazir)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=NazrulNazir)  
-
-
-
-// faw
-<h1 align="center">Hi 👋, I'm Nazrul Nazir</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+🛠️ Skills: HTML | CSS | Tailwind CSS | JavaScript | React | Git | GitHub
+🎯 Focus: Responsive Design, Reusable Components, Clean Code
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazrulnazir&label=Profile%20views&color=0e75b6&style=flat" alt="nazrulnazir" /> </p>
 
@@ -41,9 +30,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hello" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nazrulnazir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazrulnazir" height="30" width="40" /></a>
-<a href="https://fb.com/nazrulnoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nazrulnoor" height="30" width="40" /></a>
-<a href="https://instagram.com/nazrulnazir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nazrulnazir" height="30" width="40" /></a>
+  
+<a href="https://linkedin.com/in/nazrulnazir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazrulnazir" height="30" width="40" /></a>
+
+<a href="https://fb.com/nazrul.noor.official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nazrulnoor" height="30" width="40" /></a>
+
+<a href="https://instagram.com/nazrul.noor.official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nazrulnazir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
