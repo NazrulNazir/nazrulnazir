@@ -1,5 +1,5 @@
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazrulnazir" alt="nazrulnazir" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazrulnazir&label=Profile%20views&color=0e75b6&style=flat" alt="nazrulnazir" /> </p>
 
 <img width="1530" height="444" alt="GitHub profile banner of Nazrul Nazir" src="https://github.com/user-attachments/assets/fe75c18c-a4a3-4f93-bec0-e34586046e63" />
 
@@ -11,7 +11,6 @@ I enjoy transforming UI/UX designs into functional websites and continuously lea
 🎯 Focus: Responsive Design, Reusable Components, Clean Code
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazrulnazir&label=Profile%20views&color=0e75b6&style=flat" alt="nazrulnazir" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/hello" target="blank"><img src="https://img.shields.io/twitter/follow/hello?logo=twitter&style=for-the-badge" alt="hello" /></a> </p>
