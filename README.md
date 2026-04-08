@@ -29,12 +29,9 @@ I enjoy transforming UI/UX designs into functional websites and continuously lea
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hello" height="30" width="40" /></a>
-  
+<a href="https://twitter.com/hello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hello" height="30" width="40" /></a>  
 <a href="https://linkedin.com/in/nazrulnazir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazrulnazir" height="30" width="40" /></a>
-
 <a href="https://fb.com/nazrul.noor.official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nazrulnoor" height="30" width="40" /></a>
-
 <a href="https://instagram.com/nazrul.noor.official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nazrulnazir" height="30" width="40" /></a>
 </p>
 
