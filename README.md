@@ -2,6 +2,9 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nazrulnazir/)
 
 
+<img width="1536" height="1024" alt="GitHub profile banner of Nazrul Nazir" src="https://github.com/user-attachments/assets/911c0346-efc2-4d8a-b8d7-96ca739a5bd0" />
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=NazrulNazir)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazrulNazir)](https://github.com/anuraghazra/github-readme-stats)
