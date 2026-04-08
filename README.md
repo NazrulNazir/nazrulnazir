@@ -1,8 +1,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NazrulNazir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nazrul.noor.official)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nazrul.noor.official/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nazrulnazir/)
 
-
-<img width="1536" height="1024" alt="GitHub profile banner of Nazrul Nazir" src="https://github.com/user-attachments/assets/911c0346-efc2-4d8a-b8d7-96ca739a5bd0" />
+<img width="1530" height="444" alt="GitHub profile banner of Nazrul Nazir" src="https://github.com/user-attachments/assets/fe75c18c-a4a3-4f93-bec0-e34586046e63" />
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NazrulNazir)](https://github.com/ryo-ma/github-profile-trophy)
