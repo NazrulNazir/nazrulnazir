@@ -27,18 +27,7 @@ I enjoy transforming UI/UX designs into functional websites and continuously lea
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/hello" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/nazrulnazir/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/nazrul.noor.official/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/nazrul.noor.official/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
+<a href="https://twitter.com/hello"><img src="..." height="30"/></a><a href="https://linkedin.com/in/nazrulnazir/"><img src="..." height="30"/></a><a href="https://fb.com/nazrul.noor.official/"><img src="..." height="30"/></a><a href="https://instagram.com/nazrul.noor.official/"><img src="..." height="30"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
